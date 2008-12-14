@@ -25,7 +25,7 @@ If executing vOICeCmd from a batch file, you can use the errorlevel construct to
 3 the vOICe is not running
 
 = Credits =
-this programme would not have been possible without the sample code an easy to follow instructions provided on the seeing with sound website by [http://www.linkedin.com/profile?viewProfile=&key=14302809&authToken=QmUd&authType=NAME_SEARCH&locale=en_US&goback=%2Epsr_*1_peter+meijer_*1_*1_*1_*1_*1_*1_*1_*1_Y_in_110048_*1_*1_*2_*2_*2_Y_Y_*1_Relevance Doctor Peter BL Meijer.] I would also like to thank members of the [http://www.freelists.org/list/program-l program-l list] in particular, [www.mark-long.co.uk Mark Long] of [ http://www.digitallookingglass.co.uk/ Digital Looking Glass] for helping me with my Visual C++ questions.
+this programme would not have been possible without the sample code an easy to follow instructions provided on the seeing with sound website by [http://www.linkedin.com/profile?viewProfile=&key=14302809&authToken=QmUd&authType=NAME_SEARCH&locale=en_US&goback=%2Epsr_*1_peter+meijer_*1_*1_*1_*1_*1_*1_*1_*1_Y_in_110048_*1_*1_*2_*2_*2_Y_Y_*1_Relevance Doctor Peter BL Meijer.] I would also like to thank members of the [http://www.freelists.org/list/program-l program-l list] in particular, [http://www.mark-long.co.uk Mark Long] of [ http://www.digitallookingglass.co.uk/ Digital Looking Glass] for helping me with my Visual C++ questions.
 
 = Contacting me =
 you can contact me through the seeing with sound mailing list.
