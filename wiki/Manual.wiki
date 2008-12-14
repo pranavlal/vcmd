@@ -3,17 +3,6 @@ Defines vOICeCmd and explains it's usage
 = Introduction =
  vOICeCmd is a utility that allows remote control of the vOICe from the commandline. The vOICe uses windows messages as a remote control mechanism. This approach though easy-to-use cannot be used by the average user primarily because it involves a lot of programming. This utility is a wrapper around that functionality. Now, the entire interface of the vOICe can be accessed using simple to use commandline commands.
 
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
-
-
 = Usage =
 all that you need to do to use this interface is to ensure that the vOICe is running. Once that is the case, you can pass one command at a time to the vOICe. For example, to increase the frame rate by four times, you would issue the command:
 vOICeCmd Speed*4 
