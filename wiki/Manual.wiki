@@ -31,7 +31,6 @@ this programme would not have been possible without the sample code an easy to f
 you can contact me through the seeing with sound mailing list.
 
 = Links of interest =
-[http://www.seeingwithsound.com The seeing with sound website] [http://www.seeingwithsound.com/voicectl.htm Direct link to the page
- about remote controling the vOICe including a list of commands]
+[http://www.seeingwithsound.com The seeing with sound website] [http://www.seeingwithsound.com/voicectl.htm Direct link to the page about remote controling the vOICe including a list of commands]
 
 [http://www.sensorysubstitution.co.uk/tutorial My tutorial on the vOICe] [http://www.digitallookingglass.co.uk/ Digital Looking Glass]
